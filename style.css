@@ -34,7 +34,7 @@ body{
     }
 
     .left, .right {
-        width: 100%;
+        width: auto;
     }
     .right {
         height: auto;
@@ -107,6 +107,7 @@ body{
     
             margin-top: 5px;
 }
+
 
 
 
