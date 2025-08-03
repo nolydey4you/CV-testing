@@ -34,7 +34,7 @@ body{
     }
 
     .left, .right {
-        width: auto;
+        width: 100%;
     }
     .right {
         height: auto;
@@ -84,8 +84,6 @@ body{
 .right{
     width: 70%;
     padding: 30px;
-    background: white;
-    height: 100%;
 }
 
 .right-section{
@@ -109,6 +107,7 @@ body{
     
             margin-top: 5px;
 }
+
 
 
 
