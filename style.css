@@ -105,7 +105,13 @@ body{
     }
 
     .left {
-        padding: 30px;
         height: auto;
+    }
+    .part-1{
+        padding: 30px;
+    }
+
+    .part-2{
+        padding: 30px;
     }
 }
